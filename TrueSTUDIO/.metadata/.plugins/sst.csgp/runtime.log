@@ -1,0 +1,70 @@
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [3/7, 2015   7:53  31.752]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [3/7, 2015   7:53  34.144]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [3/7, 2015   14:53  31.133]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [3/7, 2015   14:53  33.562]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [3/15, 2015   6:9  28.471]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [3/15, 2015   6:9  30.877]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [3/19, 2015   17:50  49.828]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [3/19, 2015   17:50  52.247]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [3/28, 2015   1:24  18.93]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [3/28, 2015   1:24  20.509]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [4/25, 2015   16:33  43.533]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [4/25, 2015   16:33  46.31]
+------------------------------------
+
+------------------------------------
+  Logging start.  ## CURRENT TIME  : [5/2, 2015   10:53  15.321]  ## COMMAND LINE  : 
+cmd /C "gen_csini.exe"
+------------------------------------
+[STD-IN] : D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.csgp\bin\env_vars.txt
+GUI is waiting for subprocess to be done...
+Execution done. EXIT CODE = 0
+  Logging finished.  ## CURRENT TIME  : [5/2, 2015   10:53  17.667]
+------------------------------------

@@ -1,0 +1,8 @@
+[2015-03-07 07:53:34,215] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!
+[2015-03-07 14:53:33,632] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!
+[2015-03-08 19:49:42,678] WARN  at common.util.CSUtil.restoreSourceFile(  CSUtil.java:1753)     - can not found backup list file!
+[2015-03-15 06:09:30,923] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!
+[2015-03-19 17:50:52,318] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!
+[2015-03-28 01:24:20,583] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!
+[2015-04-25 16:33:46,096] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!
+[2015-05-02 10:53:17,736] INFO  at sst.csut.CSUTStartup.earlyStartup(CSUTStartup.java:54)     - Log properties are loaded successfuly!

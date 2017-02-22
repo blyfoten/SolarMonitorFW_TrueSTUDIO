@@ -1,0 +1,12 @@
+[INFO] TCE:D:\Programs\STM\TrueSTUDIO for ARM Lite 5.2.2\ide\plugins\sst.gp.core_1.0.4\CODE_SCROLL_HOME;D:\Programs\STM\TrueSTUDIO for ARM Lite 5.2.2\ide\plugins\sst.gp.core_1.0.4\CODE_SCROLL_HOME\bin;D:\Programs\STM\TrueSTUDIO for ARM Lite 5.2.2\ARMTools\bin;D:\Programs\STM\TrueSTUDIO for ARM Lite 5.2.2\Tools;D:/Programs/STM/TrueSTUDIO for ARM Lite 5.2.2/ide/jre/bin/client;D:/Programs/STM/TrueSTUDIO for ARM Lite 5.2.2/ide/jre/bin;D:/Programs/STM/TrueSTUDIO for ARM Lite 5.2.2/ide/jre/lib/i386;D:\Programs\STM32CubeMX\;D:\app\forslunc\product\11.2.0\client_1\bin;C:\Program Files\MKS\IntegrityClient\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\MATLAB\R2011b\bin;C:\MATLAB\R2008b\bin\win32;C:\MATLAB\R2008b\bin;C:\MATLAB\R2007b\bin;C:\MATLAB\R2007b\bin\win32;C:\PROGRA~1\MKS\Toolkit\mksnt;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\dSPACE RCPHIL 7.3\Common\Bin;C:\dSPACE RCPHIL 7.3\Exe;C:\dSPACE RCPHIL 7.3\ControlDesk\Bin;C:\Program Files\SlikSvn\bin;C:\Program Files\Java\jre7\bin;D:\Programs\STM32CubeMX
+[DBUG] Database:TUNING DATABASE SYSTEM...D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.gp.core\global.db
+[DBUG] Database:SQLite excuted WITHOUT Transaction :: PRAGMA synchronous=OFF;
+[DBUG] Database:  PRAGMA synchronous=OFF...OK
+[DBUG] Database:SQLite excuted WITHOUT Transaction :: PRAGMA count_changes=OFF;
+[DBUG] Database:  PRAGMA count_changes=OFF...OK
+[DBUG] Database:SQLite excuted WITHOUT Transaction :: DELETE FROM Compiler WHERE idToolChain IN (SELECT idToolChain FROM ToolChain WHERE version = 0);DELETE FROM Archive WHERE idToolChain IN (SELECT idToolChain FROM ToolChain WHERE version = 0);DELETE FROM Linker WHERE idToolChain IN (SELECT idToolChain FROM ToolChain WHERE version = 0);DELETE FROM ToolChain WHERE version = 0;
+[DBUG] Database:TUNING DATABASE SYSTEM...D:\Data\FORSLUNC\My Documents\STM32\test3\TrueSTUDIO\.metadata\.plugins\sst.gp.core\global.db
+[DBUG] Database:SQLite excuted WITHOUT Transaction :: PRAGMA synchronous=OFF;
+[DBUG] Database:  PRAGMA synchronous=OFF...OK
+[DBUG] Database:SQLite excuted WITHOUT Transaction :: PRAGMA count_changes=OFF;
+[DBUG] Database:  PRAGMA count_changes=OFF...OK
